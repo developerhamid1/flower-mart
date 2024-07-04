@@ -1,3 +1,8 @@
+div {
+  background: yellow;
+  padding: 20px;
+}
+
 p {
-  color: tomato;
+  color: rgb(0, 0, 0);
 }
